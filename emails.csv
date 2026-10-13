@@ -1,0 +1,101 @@
+id,label,subject,body
+1,spam,Congratulations! You won a cash prize,You have been selected to receive a cash reward of $5000. Claim now by clicking the link and confirming your details.
+2,spam,Congratulations! You won a cash prize,You have been selected to receive a cash reward of $5000. Claim now by clicking the link and confirming your details. Please take the necessary action as soon as possible.
+3,spam,Urgent account verification required,Your account will be suspended today. Verify your identity immediately using the secure link below.
+4,spam,Urgent account verification required,Your account will be suspended today. Verify your identity immediately using the secure link below. Thanks for your time.
+5,spam,Exclusive lottery winner notification,Your email address won our international lottery. Send your details to process the prize before the deadline.
+6,spam,Exclusive lottery winner notification,Your email address won our international lottery. Send your details to process the prize before the deadline. Thanks for your time.
+7,spam,Get a free gift card today,You are eligible for a free shopping gift card. Complete the short survey and claim your reward now.
+8,spam,Get a free gift card today,You are eligible for a free shopping gift card. Complete the short survey and claim your reward now. Please take the necessary action as soon as possible.
+9,spam,Limited time investment opportunity,Invest today and earn guaranteed returns with zero risk. Contact our agent for immediate enrollment.
+10,spam,Limited time investment opportunity,Invest today and earn guaranteed returns with zero risk. Contact our agent for immediate enrollment. Thanks for your time.
+11,spam,You have been chosen for a bonus,A special bonus is waiting for you. Click the offer and provide your information to receive the money.
+12,spam,You have been chosen for a bonus,A special bonus is waiting for you. Click the offer and provide your information to receive the money. Thanks for your time.
+13,spam,Claim your free vacation,Congratulations! You qualify for a complimentary holiday package. Reserve your place now before the offer expires.
+14,spam,Claim your free vacation,Congratulations! You qualify for a complimentary holiday package. Reserve your place now before the offer expires. Please take the necessary action as soon as possible.
+15,spam,Your loan has been pre-approved,Your instant loan is ready with a low interest rate. Pay the processing fee and receive the funds today.
+16,spam,Your loan has been pre-approved,Your instant loan is ready with a low interest rate. Pay the processing fee and receive the funds today. Thanks for your time.
+17,spam,Final warning: payment needed,Your service payment failed. Update your card details immediately to avoid account cancellation.
+18,spam,Final warning: payment needed,Your service payment failed. Update your card details immediately to avoid account cancellation. Thanks for your time.
+19,spam,Free mobile recharge available,You have won a free mobile recharge. Enter your phone number and verification code to activate it.
+20,spam,Free mobile recharge available,You have won a free mobile recharge. Enter your phone number and verification code to activate it. Please take the necessary action as soon as possible.
+21,spam,Earn money from home,Make easy money from home with no experience. Register now and start earning thousands every week.
+22,spam,Earn money from home,Make easy money from home with no experience. Register now and start earning thousands every week. Thanks for your time.
+23,spam,Special discount just for you,You have been selected for a 90 percent discount. Click the link before midnight to unlock the offer.
+24,spam,Special discount just for you,You have been selected for a 90 percent discount. Click the link before midnight to unlock the offer. Thanks for your time.
+25,spam,Important tax refund notice,A tax refund is waiting for you. Confirm your bank information so the refund can be released.
+26,spam,Important tax refund notice,A tax refund is waiting for you. Confirm your bank information so the refund can be released. Please take the necessary action as soon as possible.
+27,spam,Security alert on your account,We detected unusual activity. Log in through the attached link and confirm your password immediately.
+28,spam,Security alert on your account,We detected unusual activity. Log in through the attached link and confirm your password immediately. Thanks for your time.
+29,spam,You are our lucky customer,Your account has been chosen for a surprise reward. Reply with your details to collect the prize.
+30,spam,You are our lucky customer,Your account has been chosen for a surprise reward. Reply with your details to collect the prize. Thanks for your time.
+31,spam,Win a brand new smartphone,Enter our free competition for a new smartphone. Submit your details before the entry period ends.
+32,spam,Win a brand new smartphone,Enter our free competition for a new smartphone. Submit your details before the entry period ends. Please take the necessary action as soon as possible.
+33,spam,Cashback waiting for you,Your cashback balance is ready. Click here to transfer the money to your bank account.
+34,spam,Cashback waiting for you,Your cashback balance is ready. Click here to transfer the money to your bank account. Thanks for your time.
+35,spam,Exclusive VIP membership,You have been invited to a VIP membership with huge benefits. Pay the small activation fee today.
+36,spam,Exclusive VIP membership,You have been invited to a VIP membership with huge benefits. Pay the small activation fee today. Thanks for your time.
+37,spam,Double your money fast,Our proven program can double your money quickly. Join now and receive a guaranteed return.
+38,spam,Double your money fast,Our proven program can double your money quickly. Join now and receive a guaranteed return. Please take the necessary action as soon as possible.
+39,spam,Urgent package delivery fee,Your package is held at customs. Pay the small delivery fee using the link to release your parcel.
+40,spam,Urgent package delivery fee,Your package is held at customs. Pay the small delivery fee using the link to release your parcel. Thanks for your time.
+41,spam,Free trial ending today,Your free premium trial is expiring. Enter your payment details now to continue receiving the exclusive service.
+42,spam,Free trial ending today,Your free premium trial is expiring. Enter your payment details now to continue receiving the exclusive service. Thanks for your time.
+43,spam,You have an unpaid invoice,Our records show an overdue invoice. Open the attached payment page and settle it immediately.
+44,spam,You have an unpaid invoice,Our records show an overdue invoice. Open the attached payment page and settle it immediately. Please take the necessary action as soon as possible.
+45,spam,Winner confirmation required,You are one of our selected winners. Confirm your identity and claim your prize within 24 hours.
+46,spam,Winner confirmation required,You are one of our selected winners. Confirm your identity and claim your prize within 24 hours. Thanks for your time.
+47,spam,Get cheap insurance now,Save big on insurance with our limited offer. Submit your information for an instant quote.
+48,spam,Get cheap insurance now,Save big on insurance with our limited offer. Submit your information for an instant quote. Thanks for your time.
+49,spam,Act now to unlock your reward,This is your final chance to receive the reward. Click the button and verify your account.
+50,spam,Act now to unlock your reward,This is your final chance to receive the reward. Click the button and verify your account. Please take the necessary action as soon as possible.
+51,not_spam,Team meeting moved to 3 PM,"Hi everyone, today's project meeting has been moved to 3 PM in Room 204. Please bring your progress updates."
+52,not_spam,Team meeting moved to 3 PM,"Hi everyone, today's project meeting has been moved to 3 PM in Room 204. Please bring your progress updates. Thanks for your time."
+53,not_spam,Assignment submission reminder,This is a reminder that the NLP assignment is due on Friday. Please upload the final PDF to the class portal.
+54,not_spam,Assignment submission reminder,This is a reminder that the NLP assignment is due on Friday. Please upload the final PDF to the class portal. Thanks for your time.
+55,not_spam,Your order has shipped,Your order has been shipped and is expected to arrive on Thursday. You can track the package from your order page.
+56,not_spam,Your order has shipped,Your order has been shipped and is expected to arrive on Thursday. You can track the package from your order page. Thanks for your time.
+57,not_spam,Doctor appointment confirmation,This is a reminder that your appointment is scheduled for Tuesday at 10 AM. Please arrive 10 minutes early.
+58,not_spam,Doctor appointment confirmation,This is a reminder that your appointment is scheduled for Tuesday at 10 AM. Please arrive 10 minutes early. Thanks for your time.
+59,not_spam,Project files for review,I have attached the latest project files. Please review the changes and share your feedback before tomorrow afternoon.
+60,not_spam,Project files for review,I have attached the latest project files. Please review the changes and share your feedback before tomorrow afternoon. Thanks for your time.
+61,not_spam,Monthly electricity bill,Your electricity bill for this month is available in your account. The due date is the 10th of next month.
+62,not_spam,Monthly electricity bill,Your electricity bill for this month is available in your account. The due date is the 10th of next month. Thanks for your time.
+63,not_spam,Library book due date,The books you borrowed are due next Monday. You can renew them online if you need more time.
+64,not_spam,Library book due date,The books you borrowed are due next Monday. You can renew them online if you need more time. Thanks for your time.
+65,not_spam,Interview schedule confirmation,Thank you for applying. Your technical interview is scheduled for Wednesday at 11 AM. Please join using the meeting link.
+66,not_spam,Interview schedule confirmation,Thank you for applying. Your technical interview is scheduled for Wednesday at 11 AM. Please join using the meeting link. Thanks for your time.
+67,not_spam,Lunch plan for Saturday,Are you free for lunch on Saturday? We can meet near campus around 1 PM if that works for you.
+68,not_spam,Lunch plan for Saturday,Are you free for lunch on Saturday? We can meet near campus around 1 PM if that works for you. Thanks for your time.
+69,not_spam,Class timetable update,The database systems lecture will be held in Lab 3 instead of Room 101 tomorrow.
+70,not_spam,Class timetable update,The database systems lecture will be held in Lab 3 instead of Room 101 tomorrow. Thanks for your time.
+71,not_spam,Flight booking confirmation,Your flight booking is confirmed for 18 October. The itinerary and boarding information are available in your account.
+72,not_spam,Flight booking confirmation,Your flight booking is confirmed for 18 October. The itinerary and boarding information are available in your account. Thanks for your time.
+73,not_spam,Password changed successfully,"Your password was changed successfully. If you made this change, no further action is needed."
+74,not_spam,Password changed successfully,"Your password was changed successfully. If you made this change, no further action is needed. Thanks for your time."
+75,not_spam,Weekly project update,This week we completed the preprocessing module and started testing the classifier. I will share results in the next meeting.
+76,not_spam,Weekly project update,This week we completed the preprocessing module and started testing the classifier. I will share results in the next meeting. Thanks for your time.
+77,not_spam,Internship document request,Please send your updated resume and college ID by tomorrow so we can complete the internship documentation.
+78,not_spam,Internship document request,Please send your updated resume and college ID by tomorrow so we can complete the internship documentation. Thanks for your time.
+79,not_spam,Cafeteria menu for tomorrow,"Tomorrow's cafeteria menu includes vegetable pulao, dal, salad and curd. Breakfast will be served from 8 to 10."
+80,not_spam,Cafeteria menu for tomorrow,"Tomorrow's cafeteria menu includes vegetable pulao, dal, salad and curd. Breakfast will be served from 8 to 10. Thanks for your time."
+81,not_spam,Train ticket confirmation,Your train ticket has been confirmed. Please check the attached itinerary for the coach and seat number.
+82,not_spam,Train ticket confirmation,Your train ticket has been confirmed. Please check the attached itinerary for the coach and seat number. Thanks for your time.
+83,not_spam,Feedback on presentation,Your presentation was clear and well organized. Consider adding one example to explain the evaluation results.
+84,not_spam,Feedback on presentation,Your presentation was clear and well organized. Consider adding one example to explain the evaluation results. Thanks for your time.
+85,not_spam,Gym membership renewal,Your gym membership renews next month. You can update your preferred payment method from your account settings.
+86,not_spam,Gym membership renewal,Your gym membership renews next month. You can update your preferred payment method from your account settings. Thanks for your time.
+87,not_spam,Meeting notes from today,Attached are the notes from today's meeting. The next action is to finish the testing report by Friday.
+88,not_spam,Meeting notes from today,Attached are the notes from today's meeting. The next action is to finish the testing report by Friday. Thanks for your time.
+89,not_spam,Course registration open,Registration for the next elective semester is now open. Please select your courses before the registration deadline.
+90,not_spam,Course registration open,Registration for the next elective semester is now open. Please select your courses before the registration deadline. Thanks for your time.
+91,not_spam,Bank statement available,Your monthly bank statement is now available in online banking. No action is required.
+92,not_spam,Bank statement available,Your monthly bank statement is now available in online banking. No action is required. Thanks for your time.
+93,not_spam,Family dinner this weekend,We are planning dinner at home on Sunday evening. Let me know if you can join us.
+94,not_spam,Family dinner this weekend,We are planning dinner at home on Sunday evening. Let me know if you can join us. Thanks for your time.
+95,not_spam,Office maintenance notice,The office network will be unavailable from 8 PM to 10 PM tonight for scheduled maintenance.
+96,not_spam,Office maintenance notice,The office network will be unavailable from 8 PM to 10 PM tonight for scheduled maintenance. Thanks for your time.
+97,not_spam,Research paper discussion,I found two papers related to our topic. Let's discuss them during tomorrow's research meeting.
+98,not_spam,Research paper discussion,I found two papers related to our topic. Let's discuss them during tomorrow's research meeting. Thanks for your time.
+99,not_spam,Exam timetable published,The semester examination timetable has been published on the student portal. Please check the dates for your subjects.
+100,not_spam,Exam timetable published,The semester examination timetable has been published on the student portal. Please check the dates for your subjects. Thanks for your time.
